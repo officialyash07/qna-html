@@ -1,0 +1,23 @@
+/* Styling for code blocks */
+pre code {
+    font-family: "Fira Code", monospace;
+    font-size: 16px;
+    color: #333;
+    background-color: #f8f8f8;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Styling for inline code */
+code {
+    font-family: "JetBrains Mono", monospace; /* Change font family */
+    font-size: 14px; /* Change font size */
+    color: #c7254e; /* Change font color */
+    background-color: #f9f2f4; /* Optional: background color */
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+```html
+
+```
